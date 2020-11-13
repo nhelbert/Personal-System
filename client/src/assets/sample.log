@@ -1,0 +1,117 @@
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+From: Leng (10.169.140.46)
+  at Monday, January 06, 2020 07:56:10
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+Good Morning po s
+
+Factory group asdasd
+nakapag pareserve 10:30-11:30
+Meeting : Conference Room 4 
+
+Kakausapin daw tayo ni madam 
+
+thanks 
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+To: Henry (10.169.130.172) 
+  at Monday, January 06, 2020 08:10:25
+  (files) ADMIN
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+To: Rold (10.169.130.243) 
+  at Monday, January 06, 2020 08:42:47
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+asan na ung query mo?
+na mabagal
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+From: EJ (10.169.140.77)
+  at Monday, January 06, 2020 08:57:52
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+Good Morning po
+
+Please forced close the release note system and Open again
+
+If Bug/Error encountered please inform me immediately with screen shot(s) of the problem. 
+
+
+Thank you very much
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+To: Shalom (10.169.140.79) 
+  at Monday, January 06, 2020 08:59:16
+  (files) RNS.png
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+To: EJ (10.169.140.77) 
+  at Monday, January 06, 2020 09:00:32
+  (files) RNS.png
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+Good day sir.
+  error sir pag na search ako.
+salamat
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+From: Rold (10.169.130.243)
+  at Monday, January 06, 2020 09:37:53
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+>asan na ung query mo?
+>na mabagal ung W_IHEAD_WALL 3
+ yn ung mabagal
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+To: Rold (10.169.130.243) 
+  at Monday, January 06, 2020 09:45:08
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+>>asan na ung query mo?
+>>na mabagal> ung W_IHEAD_WALL 3
+> yn ung mabagaldatabase
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+From: Rold (10.169.130.243)
+  at Monday, January 06, 2020 09:45:32
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+>>>asan na ung query mo?
+>>>na mabagal>> ung W_IHEAD_WALL 3
+>> yn ung mabagal>databaseDATAEXTRACTIONTOOL
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+To: Rold (10.169.130.243) 
+  at Monday, January 06, 2020 10:00:28
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+SELECT A.ConstructionCode, 
+B.NameCode AS ���O�R�[�h, 
+C.ExpectedHouseRaisingDate AS �㓏�\���, 
+C.ExpectedHouseRaisingDateAtRequested AS �d�l���㓏�\��� 
+FROM HRDSQL6.DataExtractionTool.dbo.W_IHEAD_WALL_2 A ,
+HRDSQL.HrdInformationService.dbo.Constructions B,
+HRDSQL.HrdInformationService.dbo.ConstructionSchedule C 
+WHERE A.ConstructionCode = B.ConstructionCode 
+AND  A.ConstructionCode = C.ConstructionCode
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+From: SUPPORT (10.169.140.190)
+  at Monday, January 06, 2020 10:20:39
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+>Good day po,
+>maam nareceive nyu po ba ung acg ng scad kahapon?
+>salamat po.
+>
+>-nhel 
+opo nareciv ko nung saturdayasssssssssssss
+
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+To: SUPPORT (10.169.140.190) 
+  at Monday, January 06, 2020 10:24:24
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+>>Good day po,
+>>maam nareceive nyu po ba ung acg ng scad kahapon?
+>>salamat po.
+>>
+>>-nhel 
+>opo nareciv ko nung saturday
+>
+>
+haha bat kahapon nilagay ko :).

@@ -1,0 +1,23 @@
+{
+  "name": "_nhel-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "install-service": "winser -i -a",
+    "uninstall-service": "winser -r -x"
+  },
+  "author": "nhel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.4",
+    "mssql": "^6.0.1",
+    "mysql": "^2.17.1",
+    "mysqli": "^3.0.11",
+    "nano": "^8.1.0",
+    "winser": "^1.0.3"
+  }
+}
